@@ -1,6 +1,5 @@
 # creating a script to backup a file to a directory while the name of the file hass been added bu_
 
-#!bin/bash
 prepend=bu_
 
 read -p "What file do you wish to backup?: " var1
